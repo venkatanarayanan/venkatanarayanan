@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer by Profession, Data Analyst by Passion
+I am not a Data Analyst by Profession, but a Data Analyst by Passion
