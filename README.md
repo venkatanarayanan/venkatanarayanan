@@ -1,3 +1,3 @@
 ### Hi, My name is Venkatanarayanan 👋
 
-![twitter_profile]({https://twitter.com/VenkyReddevil})
+[![Twitter](https://img.shields.io/twitter/follow/VenkyReddevil.svg?style=social&label=@VenkyReddevil)](https://twitter.com/VenkyReddevil)
