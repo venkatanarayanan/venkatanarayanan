@@ -5,4 +5,4 @@ datasets related to Sports, especially Football and Cricket.
 
 ### How to reach me? ###
 
-![Twitter](https://twitter.com/VenkyReddevil)
+[Twitter](https://twitter.com/VenkyReddevil)
