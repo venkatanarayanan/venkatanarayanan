@@ -1,7 +1,6 @@
 ### Hi, My name is Venkatanarayanan 👋
 #
-I am a Data Analyst with specific interest in Data Visualisation. I am involved in a lot of Freelance work in addition to my full-time job. I like to work with
-datasets related to Sports, especially Football and Cricket. I am available to consult/collaborate.
+I am a Data Analyst with specific interest in Data Visualisation. My Data Analysis journey started roughly three years back and since then I have created numerous visualisations using R and other tools. I have created these visuals not just for me but also for others as a part of my freelance work. I have thoroughly enjoyed this journey and I am always looking to learn more. I am available to consult for Data Analytics / Data Visualisation
 
 ### Tools I use everyday ###
 #
