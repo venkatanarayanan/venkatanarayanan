@@ -7,6 +7,8 @@ I am a Data Analyst with specific interest in Data Visualisation. My Data Analys
 * R Programming
 * Shiny
 
+![skills_plot](images/skills_plot.png)
+
 ### Projects I have worked on so far ###
 #
 :white_check_mark: A Shiny [Application](http://165.22.210.69:3838/age-profile-app/) which serves as a scouting tool for EPL Players using data from fbref. Please note that this tool is still under development.
